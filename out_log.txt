@@ -1,0 +1,456 @@
+TURNO: 0
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: H12 H12
+ -> TIPO NAVE: E
+		Defence						Attack
+A C  C  C  C  C                       		A                                     
+B                S  S  S              		B                                     
+C                                     		C                                     
+D C                                   		D                                     
+E C     S  S  S                       		E                                     
+F C                                   		F                                     
+G C                                   		G                               Y     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L E                             C     		L                               Y     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 1
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: G3 H4
+ -> TIPO NAVE: E
+		Defence						Attack
+A                                     		A                                     
+B                S                    		B                                     
+C                S                    		C                                     
+D E              S     S  S  S        		D                                     
+E                                     		E                                     
+F C  C  C  C  C                       		F                                     
+G                C              C     		G                                     
+H          E     C              C     		H                                     
+I    S           C              C     		I                                     
+L    S           C              C     		L                                     
+M    S           C              C     		M                                     
+N                                     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 2
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: A3 L11
+ -> TIPO NAVE: C
+		Defence						Attack
+A C  C  C  C  C                       		A                                     
+B                S  S  S              		B                                     
+C                                     		C                                     
+D C                                   		D                                     
+E C     S  S  S                       		E                                     
+F C                                   		F                                     
+G C                                   		G                               Y     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L E                             C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 3
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: F3 A7
+ -> TIPO NAVE: C
+		Defence						Attack
+A                                     		A                   O                 
+B                S                    		B                                     
+C                S                    		C                                     
+D E              S     S  S  S        		D                                     
+E                                     		E                                     
+F C  C  C  C  C                       		F                                     
+G                C              C     		G                                     
+H          E     C              C     		H                                     
+I    S           C              C     		I                                     
+L    S           C              c     		L                                     
+M    S           C              C     		M                                     
+N                                     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 4
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: A3 A55
+ -> TIPO NAVE: C
+		Defence						Attack
+A C  C  C  C  C                       		A                                     
+B                S  S  S              		B                                     
+C                                     		C                                     
+D C                                   		D                                     
+E C     S  S  S                       		E                                     
+F C                                   		F                                     
+G C                                   		G                               Y     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L E                             C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 5
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: I11 A4
+ -> TIPO NAVE: C
+		Defence						Attack
+A                                     		A          X        O                 
+B                S                    		B                                     
+C                S                    		C                                     
+D E              S     S  S  S        		D                                     
+E                                     		E                                     
+F C  C  C  C  C                       		F                                     
+G                C              C     		G                                     
+H          E     C              C     		H                                     
+I    S           C              C     		I                                     
+L    S           C              c     		L                                     
+M    S           C              C     		M                                     
+N                                     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 6
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: E4 E3
+ -> TIPO NAVE: S
+		Defence						Attack
+A C  C  C  c  C                       		A                                     
+B                S  S  S              		B                                     
+C                                     		C                                     
+D C                                   		D                                     
+E C  S  S  S                          		E                                     
+F C                                   		F                                     
+G C                                   		G                               Y     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L E                             C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 7
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: D1 N9
+ -> TIPO NAVE: E
+		Defence						Attack
+A                                     		A          X        O                 
+B                S                    		B                                     
+C                S                    		C                                     
+D                S     S  S  S        		D                                     
+E                                     		E                                     
+F C  C  C  C  C                       		F                                     
+G                C              C     		G                                     
+H          E     C              C     		H                                     
+I    S           C              C     		I                                     
+L    S           C              c     		L                               Y     
+M    S           C              C     		M                               Y     
+N                         E           		N                      Y  Y  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 8
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: E3 B2
+ -> TIPO NAVE: S
+		Defence						Attack
+A C  C  C  C  C                       		A                                     
+B S  S  S        S  S  S              		B                                     
+C                                     		C                                     
+D C                                   		D                                     
+E C                                   		E                                     
+F C                                   		F                                     
+G C                                   		G                               Y     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L E                             C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 9
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: N9 E1
+ -> TIPO NAVE: E
+		Defence						Attack
+A                                     		A          X        O                 
+B                S                    		B                                     
+C                S                    		C                                     
+D                S     S  S  S        		D Y                                   
+E E                                   		E Y                                   
+F C  C  C  C  C                       		F Y                                   
+G                C              C     		G Y                                   
+H          E     C              C     		H                                     
+I    S           C              C     		I                                     
+L    S           C              c     		L                               Y     
+M    S           C              C     		M                               Y     
+N                                     		N                      Y  Y  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 10
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: L11 G11
+ -> TIPO NAVE: C
+		Defence						Attack
+A C  C  C  C  C                       		A                                     
+B S  S  S        S  S  S              		B                                     
+C                                     		C                                     
+D C                                   		D                                     
+E C                                   		E                                     
+F C                                   		F                                     
+G C                                   		G                               X     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L E                             C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 11
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: E1 E2
+ -> TIPO NAVE: E
+		Defence						Attack
+A                                     		A          X        O                 
+B                S                    		B                                     
+C                S                    		C                                     
+D                S     S  S  S        		D Y                                   
+E    E                                		E Y                                   
+F C  C  C  C  C                       		F Y                                   
+G                C              c     		G Y                                   
+H          E     C              C     		H                                     
+I    S           C              C     		I                                     
+L    S           C              c     		L                               Y     
+M    S           C              C     		M                               Y     
+N                                     		N                      Y  Y  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 12
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: L1 D5
+ -> TIPO NAVE: E
+		Defence						Attack
+A C  C  C  C  C                       		A                                     
+B S  S  S        S  S  S              		B                Y                    
+C                                     		C                Y                    
+D C           E                       		D                Y                    
+E C                                   		E                                     
+F C                                   		F       Y  Y  Y                       
+G C                                   		G                               X     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L                               C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 13
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: H4 F11
+ -> TIPO NAVE: E
+		Defence						Attack
+A                                     		A          X        O                 
+B                S                    		B                                     
+C                S                    		C                                     
+D                S     S  S  S        		D Y                                   
+E    E                                		E Y                                   
+F C  C  C  C  C                 E     		F Y                                   
+G                C              c     		G Y                                   
+H                C              C     		H                               Y  Y  
+I    S           C              C     		I                                     
+L    S           C              c     		L                               Y     
+M    S           C              C     		M                               Y     
+N                                     		N                      Y  Y  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 14
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: A3 F4
+ -> TIPO NAVE: C
+		Defence						Attack
+A C  C  C  C  C                       		A                                     
+B S  S  S        S  S  S              		B                Y                    
+C                                     		C                Y                    
+D C           E                       		D                Y                    
+E C                                   		E                                     
+F C                                   		F       Y  X  Y                       
+G C                                   		G                               X     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L                               C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 15
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: D9 A11
+ -> TIPO NAVE: S
+		Defence						Attack
+A                            S  S  S  		A          X        O                 
+B                S                    		B                                     
+C                S                    		C                                     
+D                S                    		D Y                                   
+E    E                                		E Y                                   
+F C  C  C  c  C                 E     		F Y                                   
+G                C              c     		G Y                                   
+H                C              C     		H                               Y  Y  
+I    S           C              C     		I                                     
+L    S           C              c     		L                               Y     
+M    S           C              C     		M                               Y     
+N                                     		N                      Y  Y  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 16
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: A3 A1
+ -> TIPO NAVE: C
+		Defence						Attack
+A C  C  C  C  C                       		A O                                   
+B S  S  S        S  S  S              		B                Y                    
+C                                     		C                Y                    
+D C           E                       		D                Y                    
+E C                                   		E                                     
+F C                                   		F       Y  X  Y                       
+G C                                   		G                               X     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L                               C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 17
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: F3 G1
+ -> TIPO NAVE: C
+		Defence						Attack
+A                            S  S  S  		A          X        O                 
+B                S                    		B                                     
+C                S                    		C                                     
+D                S                    		D Y                                   
+E    E                                		E Y                                   
+F C  C  C  c  C                 E     		F Y                                   
+G                C              c     		G X                                   
+H                C              C     		H                               Y  Y  
+I    S           C              C     		I                                     
+L    S           C              c     		L                               Y     
+M    S           C              C     		M                               Y     
+N                                     		N                      Y  Y  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 18
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: A3 A2
+ -> TIPO NAVE: C
+		Defence						Attack
+A C  C  C  C  C                       		A O  O                                
+B S  S  S        S  S  S              		B                Y                    
+C                                     		C                Y                    
+D C           E                       		D                Y                    
+E C                                   		E                                     
+F C                                   		F       Y  X  Y                       
+G c                                   		G                               X     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L                               C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 19
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: L2 B2
+ -> TIPO NAVE: S
+		Defence						Attack
+A    S                       S  S  S  		A          X        O                 
+B    S           S                    		B                                     
+C    S           S                    		C                                     
+D                S                    		D Y                                   
+E    E                                		E Y                                   
+F C  C  C  c  C                 E     		F Y                                   
+G                C              c     		G X                                   
+H                C              C     		H                               Y  Y  
+I                C              C     		I                                     
+L                C              c     		L                               Y     
+M                C              C     		M                               Y     
+N                                     		N                      Y  Y  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 20
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: A3 F5
+ -> TIPO NAVE: C
+		Defence						Attack
+A C  C  C  C  C                       		A O  O                                
+B S  S  S        S  S  S              		B                Y                    
+C                                     		C                Y                    
+D C           E                       		D                Y                    
+E C                                   		E                                     
+F C                                   		F       Y  X  X                       
+G c                                   		G                               X     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L                               C     		L                               X     
+M                               C     		M                                     
+N                      S  S  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 21
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: I11 N9
+ -> TIPO NAVE: C
+		Defence						Attack
+A    S                       S  S  S  		A          X        O                 
+B    S           S                    		B                                     
+C    S           S                    		C                                     
+D                S                    		D Y                                   
+E    E                                		E Y                                   
+F C  C  C  c  c                 E     		F Y                                   
+G                C              c     		G X                                   
+H                C              C     		H                               Y  Y  
+I                C              C     		I                                     
+L                C              c     		L                               Y     
+M                C              C     		M                               Y     
+N                                     		N                      Y  X  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 22
+CAMPO GIOCATORE 1:
+ -> MOSSA ESEGUITA: H12 H12
+ -> TIPO NAVE: E
+		Defence						Attack
+A C  C  C  C  C                       		A O  O                                
+B S  S  S        S  S  S              		B                Y                    
+C                                     		C                Y                    
+D C           E                       		D                Y                    
+E C                                   		E                                     
+F C                                   		F       Y  X  X                 Y     
+G c                                   		G                               X     
+H C                             C  E  		H                               Y     
+I                               C     		I                               Y     
+L                               C     		L                               X     
+M                               C     		M                                     
+N                      S  s  S  C     		N                                     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------
+TURNO: 23
+CAMPO GIOCATORE 2:
+ -> MOSSA ESEGUITA: E2 L1
+ -> TIPO NAVE: E
+		Defence						Attack
+A    S                       S  S  S  		A          X        O                 
+B    S           S                    		B                                     
+C    S           S                    		C                                     
+D                S                    		D Y                                   
+E                                     		E Y                                   
+F C  C  C  c  c                 E     		F Y                                   
+G                C              c     		G X                                   
+H                C              C     		H Y                             Y  Y  
+I                C              C     		I                                     
+L E              C              c     		L                               Y     
+M                C              C     		M                               Y     
+N                                     		N                      Y  X  Y  Y     
+  1  2  3  4  5  6  7  8  9 10 11 12		  1  2  3  4  5  6  7  8  9 10 11 12
+-------------------------------------------------------------------------------------

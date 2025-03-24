@@ -1,0 +1,59 @@
+\documentclass[12pt]{article}
+\usepackage[hscale=0.7,vscale=0.8]{geometry}
+
+\begin{document}
+\noindent\textbf{Regole:}
+\begin{itemize}
+    \item due griglie:
+        \begin{enumerate}
+            \item una di difesa per posizionare le proprie unità navali;
+            \item una di attacco per tenere traccia dei colpi andati a segno (X) o meno (O);
+        \end{enumerate}
+    \item 8 unità per giocatore: 3 corazzate, 3 supporto, 2 sottomarini;
+    \item esiste un massimo numero di turni (fissato da noi);
+\end{itemize}
+\noindent\textbf{Unità navali:}
+\begin{itemize}
+    \item tutte copiono azioni, ognuna ha la propria specifica;
+    \item ogni unità ha la propria dimesione specifica che equivale alla sua corazza;
+    \item muore quando ha corazza uguale a 0;
+    \item tipi di azioni:
+        \begin{itemize}
+            \item fuoco: azione della corazzata, richiede coordinate da colpire;
+            \item muovi e ripara: azione nave supporto, si sposta sulle coordinate fornite. Ripara completamente le navi attorno ad un'area 3x3 (basta anche che un solo pezzo di nave sia detro e ripara). Non può auto-curarsi;
+            \item muovi e ricerca: azione sottomarino, si sposta sulle coordinate fornite. Lancia un impulso sonar (area 5x5) che rileva unità nemiche. I rilevamenti del sonar vneogno indicati dalla lettera Y nella griglia di attacco.
+        \end{itemize}
+    \item movimento: è relativo alla casella centrale della nave; le navi non possono sovrapporsi; la nave rimane interamente all'interno della griglia; non esiste rotazione;
+\end{itemize}
+\noindent \textbf{Comandi di gioco:}
+\begin{itemize}
+    \item sintassi comandi azione: XYOrigin XYTarget. Dove:
+        \begin{itemize}
+            \item XYOrigin: coordinate unità che deve compiere l'azione (casella centrale unità);
+            \item XYTarget: coordinate target azione unità (corazza $\rightarrow$ fuoco, sottomarino e supporto $\rightarrow$ cella arrivo spostamento);
+        \end{itemize}
+    \item comando AA AA: cancella gli avvistamenti sonar dalla griglia di attacco (non conta come mossa del turno);
+\end{itemize}
+\noindent \textbf{Posizionamento iniziale navi:}
+\begin{itemize}
+    \item viene effettuato a inizio partita;
+    \item il programma richiede di fornire le coordinate della prua e della poppa di ognuna delle proprie unità;
+    \item possono essere disposte orizzontalmente o verticalmente;
+    \item non possono sovrapporsi;
+\end{itemize}
+\noindent\textbf{Visualizzazione:}
+\begin{itemize}
+    \item con XX XX visualizzo le due griglie;
+\end{itemize}
+
+\noindent \textbf{Partite:}
+\begin{itemize}
+    \item giocatore vs computer oppure computre vs computer;
+    \item ogni partita viene effettuato un log su un file: contiene tutti i comandi inviati (in ordine);
+\end{itemize}
+\noindent \textbf{Replay:}
+\begin{itemize}
+    \item sfrutta il file di log;
+    \item stampa le griglie di gioco per ogni turno;
+\end{itemize}
+\end{document}

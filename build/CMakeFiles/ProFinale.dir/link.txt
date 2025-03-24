@@ -1,0 +1,2 @@
+/usr/bin/ar qc libProFinale.a CMakeFiles/ProFinale.dir/src/Coordinate.cpp.o CMakeFiles/ProFinale.dir/src/Battlefield.cpp.o CMakeFiles/ProFinale.dir/src/Submarine.cpp.o CMakeFiles/ProFinale.dir/src/BattleShip.cpp.o CMakeFiles/ProFinale.dir/src/SupportVessel.cpp.o CMakeFiles/ProFinale.dir/src/Human.cpp.o CMakeFiles/ProFinale.dir/src/Computer.cpp.o
+/usr/bin/ranlib libProFinale.a

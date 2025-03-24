@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/ProFinale.dir/src/Coordinate.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/Coordinate.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/Coordinate.cpp"
+},
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/ProFinale.dir/src/Battlefield.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/Battlefield.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/Battlefield.cpp"
+},
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/ProFinale.dir/src/Submarine.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/Submarine.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/Submarine.cpp"
+},
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/ProFinale.dir/src/BattleShip.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/BattleShip.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/BattleShip.cpp"
+},
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/ProFinale.dir/src/SupportVessel.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/SupportVessel.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/SupportVessel.cpp"
+},
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/ProFinale.dir/src/Human.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/Human.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/Human.cpp"
+},
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/ProFinale.dir/src/Computer.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/Computer.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/Computer.cpp"
+},
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/battaglia_navale.dir/src/battaglia_navale.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/battaglia_navale.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/battaglia_navale.cpp"
+},
+{
+  "directory": "/home/luca-pi/Desktop/labProg/provaFinale/build",
+  "command": "/usr/bin/c++  -I/home/luca-pi/Desktop/labProg/provaFinale/include -std=gnu++11 -o CMakeFiles/replay.dir/src/replay.cpp.o -c /home/luca-pi/Desktop/labProg/provaFinale/src/replay.cpp",
+  "file": "/home/luca-pi/Desktop/labProg/provaFinale/src/replay.cpp"
+}
+]

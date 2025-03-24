@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/battaglia_navale.dir/src/battaglia_navale.cpp.o -o battaglia_navale  libProFinale.a 

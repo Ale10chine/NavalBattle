@@ -1,0 +1,5 @@
+/home/luca-pi/Desktop/labProg/provaFinale/build/CMakeFiles/ProFinale.dir
+/home/luca-pi/Desktop/labProg/provaFinale/build/CMakeFiles/battaglia_navale.dir
+/home/luca-pi/Desktop/labProg/provaFinale/build/CMakeFiles/replay.dir
+/home/luca-pi/Desktop/labProg/provaFinale/build/CMakeFiles/edit_cache.dir
+/home/luca-pi/Desktop/labProg/provaFinale/build/CMakeFiles/rebuild_cache.dir
