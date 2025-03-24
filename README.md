@@ -1,3 +1,5 @@
+### Naval battle project
+
 Abbiamo ideato il progetto basandoci sulla connessione tra diverse classi e sottoclassi;
 le classi "strutturali" hanno come obbiettivo creare gli oggetti fondamentali per il gioco, come i campi di battaglia, le navi e le loro rispettive coordinate.
     Ogni oggetto-nave si specializza in base al tipo nelle relative sottoclassi; i tipi di nave si differenziano in base alla loro struttura nel campo da gioco,
