@@ -1,7 +1,13 @@
-*.cpp linguist-language=C++
-*.hpp linguist-language=C++
-*.c linguist-language=C  # Mantiene il C separato
-*.h linguist-language=C  # Mantiene il C separato
+# Forza la visualizzazione di C++ come linguaggio principale
+* linguist-language=C++
 
-Makefile -linguist-detectable
-*.mk -linguist-detectable
+# Mantieni l'analisi normale per tutti i linguaggi secondari
+*.c linguist-language=C
+*.ts linguist-language=TypeScript
+CMakeLists.txt linguist-language=CMake
+*.cmake linguist-language=CMake
+
+# Escludi SOLO dalla label principale (non dalle statistiche)
+Makefile linguist-documentation=false linguist-detectable=true
+*.mk linguist-detectable=true
+Makefile -linguist-language
