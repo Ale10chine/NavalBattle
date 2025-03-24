@@ -12,6 +12,7 @@ gestiscono i vari oggetti (campi di battaglia e navi) per l'intero svolgimento d
 passo dopo passo istanziamento, mosse e di darlo in output per ricostruire le partite terminate.
 
 Poniamo qui un elenco sul funzionamento delle rispettive classi:
+
     1) Battlefield:  ogni oggetto battlefield prevede la creazione di due campi di battaglia per ogni giocatore, uno d'attacco e uno di difesa; la classe si occupa della modifica delle posizioni delle navi, delle loro azioni e dei comandi speciali nei vari campi d'attacco e di difesa (quindi in ogni partita verrano creati due oggetti battlefield).
 
     2) NavalUnit: è una classe astratta che estende tre sottoclassi che specificano le tipologie di navi (Battleship, Support vessel, submarine ); ogni sottoclasse
