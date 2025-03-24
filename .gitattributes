@@ -1,3 +1,7 @@
-# Forza il riconoscimento del C++ come linguaggio principale
-* linguist-language=C++
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.c linguist-language=C  # Mantiene il C separato
+*.h linguist-language=C  # Mantiene il C separato
 
+Makefile -linguist-detectable
+*.mk -linguist-detectable
